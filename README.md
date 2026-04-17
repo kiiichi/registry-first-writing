@@ -38,7 +38,7 @@ This folder is a clean reusable template for structured long-form writing with L
 ## Recommended Startup Order
 
 1. 复制本模板，先不要直接写正文。
-2. 先填写 `shared/claim_register.md`、`shared/term_registry.md`、`shared/structure_mapping.md`。
+2. 与 `Shared Registry Agent` 合作填写 `shared/claim_register.md`、`shared/term_registry.md`、`shared/structure_mapping.md`。
 3. 如果项目涉及图或公式，再逐步补 `shared/figure_argument_registry.md` 和 `shared/equation_argument_registry.md`。
 4. 把反复出现的坏写法沉淀到 `shared/drafting_constraints.md`。
 5. 新线程启动时优先直接使用 `@agents.md`。
