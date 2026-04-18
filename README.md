@@ -37,14 +37,14 @@ This folder is a clean reusable template for structured long-form writing with L
 
 ## Recommended Startup Order
 
-1. 复制本模板，先不要直接写正文。
-2. 与 `Shared Registry Agent` 合作填写 `shared/claim_register.md`、`shared/term_registry.md`、`shared/structure_mapping.md`。
-3. 如果项目涉及图或公式，再逐步补 `shared/figure_argument_registry.md` 和 `shared/equation_argument_registry.md`。
-4. 把反复出现的坏写法沉淀到 `shared/drafting_constraints.md`。
-5. 新线程启动时优先直接使用 `@agents.md`。
-6. 只有当项目控制清楚后，再让 `Draft Agent` 起草。
-7. 用 `Review Agent` 做多轮修订。
-8. 在对外提交、送审、定稿前，再用 `Pre-submission Agent` 做表面合规和引用完整性检查。
+1. 复制本模板至要写作的空间。
+2. 使用 `@agents.md`启动新线程。
+3. 使用 `Shared Registry Agent` 讨论并合作填写需要的 shared 文件。
+4. 当项目控制清楚后，让 `Draft Agent` 起草。
+5. 用 `Review Agent` 做多轮修订。
+6. 把反复出现的坏写法沉淀到 `shared/drafting_constraints.md`。
+7. 重复 “起草、修订、优化 shared 文件” 的循环直到满意。
+8. 在对外提交、送审、定稿前，用 `Pre-submission Agent` 做表面合规和引用完整性检查。
 
 ## File Map
 
